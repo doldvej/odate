@@ -1,0 +1,4 @@
+usage:
+
+odate(datestring)
+odate(timestampms)
